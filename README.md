@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ihwan Kurniawan
+# I'm Ihwan Kurniawan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Mobile+App+Developer;Machine+Learning+Engineer;Game+Developer" alt="Typing SVG" />
@@ -54,17 +54,17 @@ Passionate **Full Stack Developer** and **Technology Enthusiast** from Indonesia
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihwankurniawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwankurniawan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihwankrn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwankrn&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihwankurniawan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihwankrn&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihwankurniawan&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ihwankrn&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🔥 Featured Projects
@@ -90,7 +90,7 @@ Passionate **Full Stack Developer** and **Technology Enthusiast** from Indonesia
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwankurniawan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwankrn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🛠️ Development Environment
@@ -107,16 +107,16 @@ Version Control: Git, GitHub, GitLab
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:ihwan.kurniawan@example.com">
+  <a href="mailto:iwankrn@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ihwankurniawan">
+  <a href="https://linkedin.com/in/ihwankrn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ihwankurniawan">
+  <a href="https://github.com/ihwankrn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://portfolio.ihwankurniawan.dev">
+  <a href="https://portfolio.ihwankrn.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
